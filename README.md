@@ -29,6 +29,9 @@
 
 ![purely_archi](https://github.com/user-attachments/assets/eb0466cf-b6a0-464b-89e6-f44ac481f536)
 
+![E-commerce](https://github.com/user-attachments/assets/5a242e6c-372b-4c52-9fba-94006499c819)
+
+
 # Project Description
 
 ## Features
